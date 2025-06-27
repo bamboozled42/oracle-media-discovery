@@ -1,4 +1,4 @@
-# Oracle – An AI-Powered Book Discovery Platform
+# Oracle – Book Discovery Platform
 
 **Oracle** is a personal project that explores a new way to discover books, one that centers on how a story feels rather than how it's tagged or rated. It uses large language models (LLMs) and semantic embeddings to let readers describe exactly the kind of book they're looking for in natural language.
 
